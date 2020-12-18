@@ -44,7 +44,7 @@ body {
 .footer {
   text-align: center;
   position: fixed;
-
+  width: 100%;
   padding: 1rem;
   background-color: yellow;
   font-style: italic;
