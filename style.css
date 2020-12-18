@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+}
+
+#text-area {
+  display: block;
+
+  width: 90%;
+  margin: 30px auto;
+}
+
+#btn-translate {
+  display: block;
+  margin: auto;
+  padding: 20px;
+  color: white;
+  border-radius: 30px;
+  background-color: rgb(192, 157, 31);
+}
+
+#text-output {
+  border: 1px solid black;
+  color: rgb(87, 87, 87);
+  width: 90%;
+  margin: 30px auto;
+  height: 90px;
+}
+
+.navigation {
+  background-color: yellow;
+  text-align: center;
+  padding: 1.89rem;
+}
+.navigation-text {
+  font-size: 20px;
+  font-weight: 700;
+  font-style: italic;
+}
+.main {
+  padding: 1.2rem;
+  margin: 60px auto;
+}
+
+.footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  padding: 1rem;
+  background-color: yellow;
+  font-style: italic;
+}
+.footer-heading {
+  font-size: large;
+  font-weight: bold;
+}
+.footer-text {
+  font-size: medium;
+}
